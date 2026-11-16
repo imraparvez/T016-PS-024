@@ -1,0 +1,2 @@
+supplier_gstin,invoice_no,invoice_date,taxable_value,igst,cgst,sgst,category,paid_date
+27ABCDE1234F1Z5,INV-0012,2026-04-08,10000.00,1800.00,0,0,GENERAL,2026-05-01
