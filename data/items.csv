@@ -1,0 +1,21 @@
+item_code,description,hsn_sac,item_type,gst_rate,cess_rate,exempt,blocked_category,rcm_notified
+ITM-01,LED bulb 9W,85395000,GOODS,12,0,false,NONE,false
+ITM-02,Ceiling fan 1200 mm,84145100,GOODS,18,0,false,NONE,false
+ITM-03,Copper house wire 90 m coil,85444999,GOODS,18,0,false,NONE,false
+ITM-04,Modular switch 6A,85365090,GOODS,18,0,false,NONE,false
+ITM-05,Aerated soft drink 300 ml (case of 24),22021010,GOODS,28,12,false,NONE,false
+ITM-06,Packaged biscuits (carton),19053100,GOODS,18,0,false,NONE,false
+ITM-07,Branded basmati rice 25 kg,10063020,GOODS,5,0,false,NONE,false
+ITM-08,Fresh vegetables (crate),07099990,GOODS,0,0,true,NONE,false
+ITM-09,Split air conditioner 1.5 T,84151010,GOODS,28,0,false,NONE,false
+ITM-10,Cement 50 kg bag,25232930,GOODS,28,0,false,NONE,false
+ITM-11,Printed textbooks (bundle),49011010,GOODS,0,0,true,NONE,false
+ITM-12,Electrical installation service,998729,SERVICE,18,0,false,NONE,false
+ITM-13,Annual maintenance contract,998719,SERVICE,18,0,false,NONE,false
+ITM-14,Legal consultancy (advocate),998211,SERVICE,18,0,false,NONE,true
+ITM-15,Goods transport agency freight,996511,SERVICE,5,0,false,NONE,true
+ITM-16,Motor car for director,87032291,GOODS,28,17,false,MOTOR_VEHICLE,false
+ITM-17,Staff lunch catering,996334,SERVICE,5,0,false,FOOD,false
+ITM-18,Club membership fee,999652,SERVICE,18,0,false,CLUB_MEMBERSHIP,false
+ITM-19,Warehouse rent,997212,SERVICE,18,0,false,NONE,false
+ITM-20,Security guard services,998525,SERVICE,18,0,false,NONE,false

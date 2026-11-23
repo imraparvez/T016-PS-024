@@ -1,0 +1,13 @@
+supplier_id,name,gstin,state,registered
+SUP-01,Chowdhury Traders,29JKOCZ1784O1ZT,KA,true
+SUP-02,Murthy Infra,29CUICP5136E2Z0,KA,true
+SUP-03,Gowda Traders,29OSRCC9331T1ZH,KA,true
+SUP-04,Chowdhury Stores,29EAKCV9972R1ZW,KA,true
+SUP-05,Verma Electricals,29TWQCJ1622Z3ZK,KA,true
+SUP-06,Khan Industries,29MZECQ3601M1Z3,KA,true
+SUP-07,Murthy Stores,29ULYCA0875V2ZU,KA,true
+SUP-08,Naik Enterprises,29POSCT2298G2ZM,KA,true
+SUP-09,Menon Supplies,27HVWCC8603U1Z2,MH,true
+SUP-10,Yadav Retail,33BOYCU3702U3ZD,TN,true
+SUP-11,Adv. Darshan Jain,,KA,false
+SUP-12,Ravi Kumar Transport (truck operator),,KA,false

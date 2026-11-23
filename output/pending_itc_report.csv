@@ -1,0 +1,2 @@
+period,purchase_id,supplier_gstin,books_invoice_no,invoice_date,held_count,reason
+2026-12,PUR-0032,29ULYCA0875V2ZU,MUR/0459,2026-10-24,3,Not present in 2B; recheck 3/2

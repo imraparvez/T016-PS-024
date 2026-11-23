@@ -1,0 +1,11 @@
+customer_id,name,gstin,state,registered,address_on_record
+CUST-01,Singh Enterprises,29DJDCO0753M2ZN,KA,true,true
+CUST-02,Agarwal Stores,29ZMXPQ1518R2ZJ,KA,true,true
+CUST-03,Menon Electricals,29UWWPS4055O2Z5,KA,true,true
+CUST-04,Kulkarni Supplies,29RPDCN8976Q2ZS,KA,true,true
+CUST-05,Verma Infra,29QQZPA9320W3Z6,KA,true,true
+CUST-06,Bhat Supplies,33NPEPP3177W3ZG,TN,true,true
+CUST-07,Sheikh Industries,27VJRCZ8766G2ZH,MH,true,true
+CUST-08,Sharma Traders,32EUTPO8753I3ZX,KL,true,true
+CUST-09,Sahana Prabhu,,TN,false,false
+CUST-10,Madhuri Sheikh,,MH,false,true

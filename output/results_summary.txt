@@ -1,0 +1,9 @@
+PS-024 sample execution summary (Team T016)
+Periods: 2026-10, 2026-11, 2026-12
+outward_register.csv: 80 data rows
+reconciliation.csv: 121 data rows
+itc_summary.csv: 12 data rows
+liability_setoff.csv: 6 data rows
+pending_itc_report.csv: 1 data rows
+Regression tests: PASS (12 tests)
+Note: outputs are engine-computed sample results; official expected output files were not included in the supplied pack.
